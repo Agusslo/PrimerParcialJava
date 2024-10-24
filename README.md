@@ -7,3 +7,6 @@ Jueves 24-10
 ### Nombre del Proyecto: PrimerParcial
 
 ## EL UML SE ENCUENTRA DENTRO DEL SRC!
+
+
+![image](https://github.com/user-attachments/assets/96dd30b3-0c89-4547-a3f7-8554e1539f8b)
